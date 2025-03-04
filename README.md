@@ -1,4 +1,4 @@
 ﻿# CpPractice
 
 
-Saving my CP practice solutoins on github
+Saving my CP practice solutions on github
